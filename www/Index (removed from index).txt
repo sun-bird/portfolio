@@ -1,0 +1,474 @@
+ <!-- Portfolio -->
+	<section id="portfolio" class="content">
+    		
+        <!-- Container -->
+		<div class="container portfolio-title">
+			
+            
+            <!-- Section Title -->
+            <div class="section-title">
+                <div class="title-content">            
+                    <h3>Portfolio</h3>            
+                    <ul class="title-dots"><li></li><li></li><li></li></ul>            
+                    <p>We help build products from idea to launch. We're experts at web & mobile design, branding, iOS development and frontend. Here's some of our work.</p>            
+                </div>
+            </div>
+            <!--/Section Title -->
+            
+            
+        </div> 
+        <!-- Container -->  
+          
+          
+          
+          
+          
+        <div class="portfolio-top"></div>          
+        
+              
+        <!-- Portfolio Plus Filters -->
+        <div class="portfolio">
+        
+            
+     
+       
+       <!-- Portfolio Filters -->   
+       <div  id="filters" class="sixteen columns">
+    
+          <ul class="clearfix">
+            <li><a id="all" href="#" data-filter="*" class="active">all</a></li>	
+            <li><a href="#" data-filter=".fashion">fashion</a></li>
+            <li><a href="#" data-filter=".glamour">glamour</a></li>
+            <li><a href="#" data-filter=".portrait">portrait</a></li>
+            <li><a href="#" data-filter=".beauty">beauty</a></li>
+          </ul>
+        </div>
+        <!--/Portfolio Filters -->
+    
+       
+             
+        <!-- Portfolio Wrap -->  
+        <div id="portfolio-wrap" data-col-large="3" data-col-small="2">
+
+        
+        
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade fashion">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p01.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography01.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Red Lips</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade glamour">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p02.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography02.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Gradient</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade portrait">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p03.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography03.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Sexy Blonde</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade beauty">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p04.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography04.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Hair Style</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade fashion">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p05.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography05.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">T-Shirt</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade glamour">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p06.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography06.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Cube</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade portrait">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p07.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography07.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">The Owl</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade beauty">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p08.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography08.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Desert Rose</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade fashion">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p09.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography09.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">The Beetle</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade glamour">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p10.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography10.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Only a Coffee</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade portrait">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p11.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography11.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Two Beauties</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade beauty">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p12.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography12.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Milk Dress</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade fashion">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p13.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography13.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Chocolate Hair</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade glamour">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p14.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography14.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Drive Me Home</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+            <!-- Portfolio Item PrettyPhoto  -->
+            <div class="portfolio-item-fade portrait">                 
+                <div class="portfolio-item">
+                
+                    <div class="portfolio-image" style="background-image:url(images/photography/p15.jpg);"></div>
+                    
+                    <a title="Open Project" href="images/photography/photography15.jpg" rel="prettyPhoto[portfolio-gallery]">
+                        <div class="project-overlay alternate"> 
+                            <div class="project-border">             
+                                <div class="project-info">
+                                    <h6 class="project-name">Lady in Red</h6>
+                                    <p class="project-categories">image pop-up</p>	
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                  
+                </div>
+            </div>
+            <!--/Portfolio Item PrettyPhoto  -->
+            
+            
+            
+             
+                 
+       </div>
+       <!--/Portfolio Wrap -->
+            
+        </div>
+        <!--/Portfolio Plus Filters -->
+        
+        
+        
+        
+        
+        <div class="portfolio-bottom"></div>
+        
+        
+        
+        
+        
+        <!-- Project Page Holder-->
+        <div id="project-page-holder">
+        
+            <div id="loader-line-box">
+                <div id="loader-line-value"></div>
+            </div>
+
+            
+            <div class="clear"></div>
+            <div id="project-page-data"></div>
+        
+        </div>
+        <!--/Project Page Holder-->
+        
+		
+        
+    
+             
+	</section>	
+	<!--/Portfolio -->
+
+
+ 
+    
+    <!-- Twitter Parallax -->
+	<section id="twitter-parallax" class="parallax" style="background-image: url('images/separator1.jpg'); border:0;">
+		        
+        <!-- Parallax Overlay -->
+        <div class="overlay" style="background-color:rgba(0,0,0,0.9)">
+        	
+            <!-- Container -->	
+            <div class="container no-padding light-content">
+           		
+                
+                
+                <!-- Twitter Feed -->
+                <div class="twitter-icon"><i class="fa fa-twitter"></i></div>	
+                
+                <div class="twitter-slider flexslider">              
+                  <div id="twitter-feed"></div>  
+                </div>
+                
+                <p class="twitter-name"><a href="http://twitter.com/'envato'" target="_blank">Envato</a></p>
+                
+                <div class="twitter-nav-table"><div class="twitter-nav-table-cell"><div class="twitter-nav"></div></div></div>
+                <!-- Twitter Feed -->
+                 
+                 
+            
+            </div>        
+        	<!-- Container -->
+            
+        </div>
+        <!--/Parallax Overlay -->        
+        
+	</section>
+    <!--/Twitter Parallax -->
